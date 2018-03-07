@@ -10,6 +10,11 @@ h1 {
   grid-column: 1/span 2;
   margin-left: 1rem;
   color: orange;
+  font-variant: small-caps;
+  border-bottom: 1px solid pink;
+  max-width: 100%;
+  text-shadow: 2px 2px 4px purple;
+  text-align: center;
 }
 
 nav {
